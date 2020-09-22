@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b557c06-5353-47fd-aa40-a9c978475c7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1gP7ro3ELLBrpQ9QvyZRr84x4Fn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b557c06-5353-47fd-aa40-a9c978475c7f" name="Default Changelist" comment="" />
+      <created>1598004575356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598004575356</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="247" y="164" key="#PSD" timestamp="1598004820349">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state x="247" y="164" key="#PSD/0.0.1459.864@0.0.1459.864" timestamp="1598004820349" />
+    <state x="510" y="187" key="FileChooserDialogImpl" timestamp="1598004878698">
+      <screen x="0" y="0" width="1459" height="864" />
+    </state>
+    <state x="510" y="187" key="FileChooserDialogImpl/0.0.1459.864@0.0.1459.864" timestamp="1598004878698" />
+  </component>
+</project>
