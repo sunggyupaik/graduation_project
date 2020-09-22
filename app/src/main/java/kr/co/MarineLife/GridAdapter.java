@@ -52,23 +52,6 @@ public class GridAdapter extends BaseAdapter {
         holder.tv.setText(values[position]);
         holder.img.setImageResource(images[position]);
 
-//        myDialog.setContentView(R.layout.organisminfo);
-
-//        rowView.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Log.d("tag","bye1");
-//                Intent intent = new Intent(context.getApplicationContext(), OrganismInfo.class);
-//                Log.d("tag","bye2");
-//                context.startActivity(intent);
-//                Toast.makeText(context, "You Clicked "+values[position], Toast.LENGTH_LONG).show();
-//
-////                myDialog.getWindow().setBackgroundDrawable(new ColorDrawable(Color.TRANSPARENT));
-////                myDialog.show();
-////                myDialog.setContentView(R.layout.custompopup);
-////                context.startActivity(intent);
-//            }
-//        });
         return rowView;
     }
     public class Holder
