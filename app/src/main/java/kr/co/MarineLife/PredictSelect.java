@@ -35,28 +35,6 @@ public class PredictSelect extends AppCompatActivity {
         button2 = (Button) findViewById(R.id.button2);
         text1 = (TextView) findViewById(R.id.TextView1);
 
-//        btnDialog1.setOnClickListener(new View.OnClickListener() {
-//            @Override public void onClick(View v) {
-//                final String[] items = new String[]{"월","01","02","03","04","05","06","07","08","09","10","11","12"};
-//                final int[] selectedIndex = {0};
-//                AlertDialog.Builder dialog = new AlertDialog.Builder(PredictSelect.this);
-//                dialog  .setTitle("월을 선택하세요")
-//                        .setSingleChoiceItems(items, 0, new DialogInterface.OnClickListener() {
-//                            @Override
-//                            public void onClick(DialogInterface dialog, int which) {
-//                                selectedIndex[0] = which;
-//                                month=items[selectedIndex[0]];
-//                            }
-//                        })
-//                        .setPositiveButton("확인", new DialogInterface.OnClickListener() {
-//                            @Override
-//                            public void onClick(DialogInterface dialog, int which) {
-//                                Toast.makeText(PredictSelect.this, items[selectedIndex[0]], Toast.LENGTH_SHORT).show();
-//                                btnDialog1.setText(items[selectedIndex[0]]);
-//                            } }).create().show();
-//            }
-//        });
-
         btnDialog2.setOnClickListener(new View.OnClickListener() {
             @Override public void onClick(View v) {
                 final String[] items = new String[]{"일","01","02","03","04","05","06","07","08","09","10","11","12","13","14",
