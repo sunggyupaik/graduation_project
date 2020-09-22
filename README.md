@@ -14,8 +14,6 @@
 ![system architecture](https://user-images.githubusercontent.com/45138206/93892657-bd515f80-fd27-11ea-81c1-888d87ed05de.PNG)
 
 # Functions
-![Features](https://user-images.githubusercontent.com/45138206/93896176-96952800-fd2b-11ea-98e8-43a907a76a44.png)
-
 ## 해산물 정보
 
 해산물을 선택하면 해산물 정보를 표시한다.
